@@ -21,7 +21,7 @@
 ---
 
 ### 👨‍💻 About Me
-* 🔭 **Current Focus:** Laravel, Python for data science.
+* 🔭 **Current Focus:** Laravel, Python for data science, SQL.
 * 🌱 **Want to learn:** Golang.
 
 ---
